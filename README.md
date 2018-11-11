@@ -1,12 +1,10 @@
 # Redirection notice
 
-## This repo is no longer maintained. The up-to-date version of the code for the book(bit.ly/gan-book) is [now here](https://github.com/GANs-in-Action/gans-in-action)
+## This repo is no longer maintained. The up-to-date version of the code for the [book](bit.ly/gan-book) is [now here](https://github.com/GANs-in-Action/gans-in-action)
 
 --- 
 
-## Deprecated:
-
-## GANs-in-action
+## Deprecated repo for GANs in Action book by Manning publications
 Code for the book [Generative Adversarial Books in Action](bit.ly/gan-book)
 
 * Chapter 1: no code
